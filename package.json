@@ -19,7 +19,7 @@
     }
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.14.6",
     "rinyu-drvo-practice-vue-components-npm-package": "^0.1.0"
   },
   "devDependencies": {
