@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import MyButton from 'practice-vue-components-npm-package'
+import MyButton from 'rinyu-drvo-practice-vue-components-npm-package'
 
 export default {
   components: {
