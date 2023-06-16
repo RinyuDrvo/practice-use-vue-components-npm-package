@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script>
+<script lang="ts">
 import MyButton from 'rinyu-drvo-practice-vue-components-npm-package'
 
 export default {
