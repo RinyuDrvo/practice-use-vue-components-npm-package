@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "npmパッケージ化されたVueコンポーネントを使用するテストプロジェクト",
   "author": "RinyuDrvo",
-  "private": true,
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
